@@ -21,7 +21,7 @@ import InputShared from "../../src/component/base/inputShared";
 
 function Login() {
     return(
-        <div className="bg-black m-10">
+        <div className="h-50 bg-red-200 flex items-center justify-center p-20">
             <InputShared
                 type='userName'
                 valueInputs='Quandx'
